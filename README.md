@@ -1,2 +1,2 @@
 # misc-scripts
-Miscellaneous scripts for various purposes
+Miscellaneous scripts for various purposes.
